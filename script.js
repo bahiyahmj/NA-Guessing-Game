@@ -1,6 +1,6 @@
 
 // setup with variables
-const wordToGuess = "pineapple";
+const wordToGuess = "skywalker";
 
 const wordState = [];
 
